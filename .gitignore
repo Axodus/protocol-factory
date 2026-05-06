@@ -4,6 +4,7 @@ out/
 logs/
 artifacts/
 broadcast/
+lib
 
 # Testing
 test/*.tree
